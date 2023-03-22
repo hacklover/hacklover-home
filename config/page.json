@@ -1,0 +1,66 @@
+{
+  "title": "",
+  "description": "",
+  "links": [
+    {
+      "color": "#282828",
+      "icon": {
+        "name": "mdi-codepen",
+        "size": 35,
+        "style": {
+          "marginTop": "-2px"
+        }
+      },
+      "href": "https://codepen.io/hacklover",
+      "target": "_black"
+    },
+    {
+      "color": "#484848",
+      "icon": {
+        "name": "mdi-github",
+        "size": 32,
+        "style": {
+          "marginTop": "-2px"
+        }
+      },
+      "href": "https://github.com/hacklover",
+      "target": "_black"
+    },
+    {
+      "color": "#1DA1F2",
+      "icon": {
+        "name": "mdi-twitter",
+        "size": 34,
+        "style": {
+          "marginTop": "-4px"
+        }
+      },
+      "href": "https://twitter.com/hacklover2552",
+      "target": "_black"
+    },
+    {
+      "color": "#7289da",
+      "icon": {
+        "name": "mdi-discord",
+        "size": 27,
+        "style": {
+          "marginTop": "-4px"
+        }
+      },
+      "href": "https://discord.gg/cYyfjpK7RD",
+      "target": "_black"
+    }
+  ],
+  "about": {
+    "description": "In modern computing terminology, a \"kludge\" (or often a \"hack\") is a solution to a problem, the performance of a task, or a system fix which is inefficient, inelegant or incomprehensible, but which somehow works.&nbsp; [🡥](https://en.wikipedia.org/wiki/Kludge#Computer_science)",
+    "buttons": []
+  },
+  "footer": {
+    "buttons": [],
+    "action": {
+      "text": "Get a custom homepage",
+      "href": "https://patreon.com/hacklover",
+      "target": "_black"
+    }
+  }
+}

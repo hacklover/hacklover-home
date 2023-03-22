@@ -1,0 +1,21 @@
+@import '@mdi/font/css/materialdesignicons.css';
+@import '@fontsource/oswald';
+
+html, body {
+  overflow: hidden !important;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Oswald', serif;
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "types": ["node"],
+    "paths": {
+      "@/*": ["./src/*"],
+      "config/*": ["./config/*"],
+      "components/*": ["./src/components/*"],
+    }
+  }
+}
